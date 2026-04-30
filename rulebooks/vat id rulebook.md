@@ -1,6 +1,6 @@
 | Version | Date | Description |
 |---------|------------|------------|
-| 0.9 | 02-04-2026 | Copy created from the EUDI attestation rulebook template as the basis for the WE BUILD template. |
+| 0.9 | 30-04-2026 | Copy created from the EUDI attestation rulebook template as the basis for the WE BUILD template. |
 | 1.0 | 02-04-2026 | Added WE BUILD v1 author guidance in Sections 1.1 and 2.1 and introduced Sections 2.8 Code lists and 2.9 Integrity rules. |
 | 1.1 | 08-04-2026 | Added a Semantic Reference column to Chapter 2 attribute and metadata tables. |
 
